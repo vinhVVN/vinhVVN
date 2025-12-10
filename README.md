@@ -74,7 +74,8 @@
 <br>
 <p align=center>
   <div align=center>
-    ![GitHub Streak](https://streak-stats.demolab.com/?user=vinhVVN&theme=react&border=61dafb&hide_border=true)
+    <img align="left" width=380 src="https://streak-stats.demolab.com/?user=vinhVVN&theme=react&border=61dafb&hide_border=true" alt="vinhVVN" />
+
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=vinhVVN&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
