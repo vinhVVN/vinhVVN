@@ -76,10 +76,6 @@
   <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vinhVVN" alt="GitHub Streak" /></a>
 
-    
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinhVVN)](https://github.com/anuraghazra/github-readme-stats)
-
-
   </div>
   <br><br><br><br><br><br><br><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinhVVN&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
