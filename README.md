@@ -77,15 +77,15 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vinhVVN" alt="GitHub Streak" /></a>
 
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinhVVN&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
 
-<br/><br/><br/><br/><br/><br/>
+<br/>
 <div width="100%" align="center">
   <!-- <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a> -->
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
